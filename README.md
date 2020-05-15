@@ -10,7 +10,7 @@
 
 ## Stack
 Esse é um projeto de Frontend Web feito utilizando ReactJS, Redux, HTML, CSS; e como gerenciador de pacotes do NodeJS o npm. 
-Sobre a divisão dos arquivos, há dois grandes setores. Os `components` são os componentes em si do meu projeto (card de video, formulário de login, menu lateral e outros). Já os `Containers` são as páginas em si e podem ser pensadas como a união dos componentes para se mostrar na tela. 
+Sobre a divisão dos arquivos, há dois grandes setores. Os `components` são os componentes em si do meu projeto (card de post, formulário de login e outros). Já os `Containers` são as páginas em si e podem ser pensadas como a união dos componentes para se mostrar na tela. 
 ## Sobre
 Esse foi um projeto que fiz em React ispirado no Reddit.
 Ele consiste em uma plataforma que permite ao usuário se cadastrar e a partir disso fazer cadastro, login, fazer posts, votar em posts, comentar, votar nos comentarios. 
